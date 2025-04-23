@@ -3,7 +3,7 @@
 ## Setup
 
 - Docker with WSL:
-(wsl2 docker quickstart)[https://github.com/codeedu/wsl2-docker-quickstart]
+[wsl2 docker quickstart](https://github.com/codeedu/wsl2-docker-quickstart)
 
 ### Commands
 
